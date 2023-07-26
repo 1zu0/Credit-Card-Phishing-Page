@@ -1,7 +1,7 @@
 # Credit-Card-Phishing-Page by 1zu0
 The Responsive Phishing Page for Credit Cards 2023
 
-1. Change the ending of the file "hwto" to .txt and read...
+1. Change the ending of the file "howto" to .txt and read...
 
 2. Open data.php with an editor and change the redirected url to an error page
 
